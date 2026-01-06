@@ -1,0 +1,7 @@
+{
+  "name": "DevShowcase - Professional Portfolio & Lead Gen",
+  "description": "A high-end professional portfolio for a full-stack developer and designer, featuring AI-powered project estimation and service showcases for websites, apps, and logos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
